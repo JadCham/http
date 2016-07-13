@@ -8,7 +8,7 @@
 
 A smart and simple HTTP client for sending and recieving JSON and XML.
 
-This is a test repo
+This is a test repo (test)
 
 ## Installation
 
